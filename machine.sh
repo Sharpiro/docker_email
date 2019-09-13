@@ -1,0 +1,1 @@
+docker-machine create --driver amazonec2 --amazonec2-open-port 25 aws-sandbox
